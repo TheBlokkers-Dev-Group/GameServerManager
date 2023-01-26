@@ -1,0 +1,13 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/.vs
+/GameServerManager/.vs/GameServerManager
+/GameServerManager/GameServerManager/GameServerManager/obj
+/GameServerManager/GameServerManager/GameServerManager/bin/Debug/netstandard2.0
+/GameServerManager/GameServerManager/GameServerManager.Gtk/bin/Debug/net6.0
+/GameServerManager/GameServerManager/GameServerManager.Gtk/obj
+/GameServerManager/GameServerManager/GameServerManager.Mac/obj
+/GameServerManager/GameServerManager/GameServerManager.Wpf/bin/Debug/net6.0-windows
+/GameServerManager/GameServerManager/GameServerManager.Wpf/obj
